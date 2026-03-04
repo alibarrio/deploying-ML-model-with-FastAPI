@@ -1,0 +1,396 @@
+workclass = Private
+  Precision: 0.8195, Recall: 0.5125, F1: 0.6306
+  Sample size: 4578
+
+workclass = State-gov
+  Precision: 0.7576, Recall: 0.6849, F1: 0.7194
+  Sample size: 254
+
+workclass = Self-emp-not-inc
+  Precision: 0.6875, Recall: 0.4904, F1: 0.5725
+  Sample size: 498
+
+workclass = Self-emp-inc
+  Precision: 0.8431, Recall: 0.7288, F1: 0.7818
+  Sample size: 212
+
+workclass = Federal-gov
+  Precision: 0.8409, Recall: 0.5286, F1: 0.6491
+  Sample size: 191
+
+workclass = Local-gov
+  Precision: 0.7528, Recall: 0.6091, F1: 0.6734
+  Sample size: 387
+
+workclass = ?
+  Precision: 0.6667, Recall: 0.3333, F1: 0.4444
+  Sample size: 389
+
+workclass = Without-pay
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 4
+
+education = Some-college
+  Precision: 0.9189, Recall: 0.2455, F1: 0.3875
+  Sample size: 1485
+
+education = HS-grad
+  Precision: 1.0000, Recall: 0.1884, F1: 0.3171
+  Sample size: 2085
+
+education = Bachelors
+  Precision: 0.7248, Recall: 0.8133, F1: 0.7665
+  Sample size: 1053
+
+education = Masters
+  Precision: 0.8037, Recall: 0.8502, F1: 0.8263
+  Sample size: 369
+
+education = Assoc-acdm
+  Precision: 0.8182, Recall: 0.3830, F1: 0.5217
+  Sample size: 198
+
+education = 7th-8th
+  Precision: 1.0000, Recall: 0.0000, F1: 0.0000
+  Sample size: 141
+
+education = 11th
+  Precision: 1.0000, Recall: 0.2727, F1: 0.4286
+  Sample size: 225
+
+education = Assoc-voc
+  Precision: 0.9565, Recall: 0.3492, F1: 0.5116
+  Sample size: 273
+
+education = Prof-school
+  Precision: 0.8391, Recall: 0.8690, F1: 0.8538
+  Sample size: 116
+
+education = 9th
+  Precision: 1.0000, Recall: 0.3333, F1: 0.5000
+  Sample size: 115
+
+education = 5th-6th
+  Precision: 1.0000, Recall: 0.5000, F1: 0.6667
+  Sample size: 62
+
+education = 10th
+  Precision: 1.0000, Recall: 0.0833, F1: 0.1538
+  Sample size: 183
+
+education = Doctorate
+  Precision: 0.8393, Recall: 0.8246, F1: 0.8319
+  Sample size: 77
+
+education = 12th
+  Precision: 1.0000, Recall: 0.4000, F1: 0.5714
+  Sample size: 98
+
+education = 1st-4th
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 23
+
+education = Preschool
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 10
+
+marital-status = Divorced
+  Precision: 0.9677, Recall: 0.2913, F1: 0.4478
+  Sample size: 920
+
+marital-status = Married-civ-spouse
+  Precision: 0.7839, Recall: 0.5927, F1: 0.6750
+  Sample size: 2950
+
+marital-status = Never-married
+  Precision: 1.0000, Recall: 0.2427, F1: 0.3906
+  Sample size: 2126
+
+marital-status = Separated
+  Precision: 1.0000, Recall: 0.3158, F1: 0.4800
+  Sample size: 209
+
+marital-status = Widowed
+  Precision: 1.0000, Recall: 0.1053, F1: 0.1905
+  Sample size: 208
+
+marital-status = Married-spouse-absent
+  Precision: 1.0000, Recall: 0.1250, F1: 0.2222
+  Sample size: 96
+
+marital-status = Married-AF-spouse
+  Precision: 1.0000, Recall: 0.0000, F1: 0.0000
+  Sample size: 4
+
+occupation = Adm-clerical
+  Precision: 0.7209, Recall: 0.3229, F1: 0.4460
+  Sample size: 726
+
+occupation = Exec-managerial
+  Precision: 0.8426, Recall: 0.6474, F1: 0.7322
+  Sample size: 838
+
+occupation = Machine-op-inspct
+  Precision: 0.7500, Recall: 0.2553, F1: 0.3810
+  Sample size: 378
+
+occupation = Craft-repair
+  Precision: 0.8261, Recall: 0.3149, F1: 0.4560
+  Sample size: 821
+
+occupation = Prof-specialty
+  Precision: 0.7984, Recall: 0.7679, F1: 0.7828
+  Sample size: 828
+
+occupation = Sales
+  Precision: 0.7801, Recall: 0.5729, F1: 0.6607
+  Sample size: 729
+
+occupation = Handlers-cleaners
+  Precision: 0.5000, Recall: 0.3333, F1: 0.4000
+  Sample size: 273
+
+occupation = Other-service
+  Precision: 0.5714, Recall: 0.1538, F1: 0.2424
+  Sample size: 667
+
+occupation = Protective-serv
+  Precision: 0.6250, Recall: 0.2381, F1: 0.3448
+  Sample size: 136
+
+occupation = Priv-house-serv
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 26
+
+occupation = Transport-moving
+  Precision: 0.7727, Recall: 0.2656, F1: 0.3953
+  Sample size: 317
+
+occupation = ?
+  Precision: 0.6667, Recall: 0.3333, F1: 0.4444
+  Sample size: 389
+
+occupation = Farming-fishing
+  Precision: 0.5385, Recall: 0.2500, F1: 0.3415
+  Sample size: 193
+
+occupation = Tech-support
+  Precision: 0.9048, Recall: 0.3725, F1: 0.5278
+  Sample size: 189
+
+occupation = Armed-Forces
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 3
+
+relationship = Not-in-family
+  Precision: 0.9804, Recall: 0.2660, F1: 0.4184
+  Sample size: 1702
+
+relationship = Wife
+  Precision: 0.7647, Recall: 0.5455, F1: 0.6367
+  Sample size: 322
+
+relationship = Husband
+  Precision: 0.7859, Recall: 0.5991, F1: 0.6799
+  Sample size: 2590
+
+relationship = Unmarried
+  Precision: 1.0000, Recall: 0.2222, F1: 0.3636
+  Sample size: 702
+
+relationship = Own-child
+  Precision: 1.0000, Recall: 0.1176, F1: 0.2105
+  Sample size: 1019
+
+relationship = Other-relative
+  Precision: 1.0000, Recall: 0.3750, F1: 0.5455
+  Sample size: 178
+
+race = White
+  Precision: 0.8017, Recall: 0.5294, F1: 0.6377
+  Sample size: 5595
+
+race = Black
+  Precision: 0.7907, Recall: 0.5231, F1: 0.6296
+  Sample size: 599
+
+race = Other
+  Precision: 0.6667, Recall: 0.6667, F1: 0.6667
+  Sample size: 55
+
+race = Asian-Pac-Islander
+  Precision: 0.7258, Recall: 0.7258, F1: 0.7258
+  Sample size: 193
+
+race = Amer-Indian-Eskimo
+  Precision: 0.8333, Recall: 0.5000, F1: 0.6250
+  Sample size: 71
+
+sex = Female
+  Precision: 0.7949, Recall: 0.3991, F1: 0.5314
+  Sample size: 2126
+
+sex = Male
+  Precision: 0.7964, Recall: 0.5613, F1: 0.6585
+  Sample size: 4387
+
+native-country = United-States
+  Precision: 0.8047, Recall: 0.5226, F1: 0.6337
+  Sample size: 5870
+
+native-country = Mexico
+  Precision: 1.0000, Recall: 0.3333, F1: 0.5000
+  Sample size: 114
+
+native-country = Puerto-Rico
+  Precision: 0.8000, Recall: 0.6667, F1: 0.7273
+  Sample size: 22
+
+native-country = El-Salvador
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 20
+
+native-country = ?
+  Precision: 0.6774, Recall: 0.6774, F1: 0.6774
+  Sample size: 125
+
+native-country = Columbia
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 6
+
+native-country = Poland
+  Precision: 0.3333, Recall: 0.5000, F1: 0.4000
+  Sample size: 14
+
+native-country = Cambodia
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 3
+
+native-country = Germany
+  Precision: 0.8182, Recall: 0.6923, F1: 0.7500
+  Sample size: 32
+
+native-country = Philippines
+  Precision: 1.0000, Recall: 0.6875, F1: 0.8148
+  Sample size: 35
+
+native-country = Canada
+  Precision: 0.6250, Recall: 0.6250, F1: 0.6250
+  Sample size: 22
+
+native-country = Ecuador
+  Precision: 1.0000, Recall: 0.5000, F1: 0.6667
+  Sample size: 5
+
+native-country = Italy
+  Precision: 0.7500, Recall: 0.7500, F1: 0.7500
+  Sample size: 14
+
+native-country = Cuba
+  Precision: 1.0000, Recall: 0.8000, F1: 0.8889
+  Sample size: 19
+
+native-country = Iran
+  Precision: 0.6000, Recall: 0.6000, F1: 0.6000
+  Sample size: 12
+
+native-country = Jamaica
+  Precision: 0.0000, Recall: 1.0000, F1: 0.0000
+  Sample size: 13
+
+native-country = Haiti
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 6
+
+native-country = South
+  Precision: 0.2000, Recall: 0.5000, F1: 0.2857
+  Sample size: 13
+
+native-country = Taiwan
+  Precision: 0.8000, Recall: 1.0000, F1: 0.8889
+  Sample size: 11
+
+native-country = Dominican-Republic
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 8
+
+native-country = Ireland
+  Precision: 1.0000, Recall: 0.0000, F1: 0.0000
+  Sample size: 5
+
+native-country = Japan
+  Precision: 1.0000, Recall: 0.7500, F1: 0.8571
+  Sample size: 11
+
+native-country = Scotland
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 3
+
+native-country = India
+  Precision: 0.7000, Recall: 0.8750, F1: 0.7778
+  Sample size: 21
+
+native-country = Trinadad&Tobago
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 3
+
+native-country = Hungary
+  Precision: 1.0000, Recall: 0.5000, F1: 0.6667
+  Sample size: 3
+
+native-country = England
+  Precision: 0.7500, Recall: 0.7500, F1: 0.7500
+  Sample size: 14
+
+native-country = Laos
+  Precision: 1.0000, Recall: 0.0000, F1: 0.0000
+  Sample size: 4
+
+native-country = Hong
+  Precision: 0.5000, Recall: 1.0000, F1: 0.6667
+  Sample size: 8
+
+native-country = Greece
+  Precision: 1.0000, Recall: 0.5000, F1: 0.6667
+  Sample size: 7
+
+native-country = Portugal
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 6
+
+native-country = Guatemala
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 13
+
+native-country = China
+  Precision: 0.8750, Recall: 0.8750, F1: 0.8750
+  Sample size: 18
+
+native-country = France
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 5
+
+native-country = Nicaragua
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 7
+
+native-country = Vietnam
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 5
+
+native-country = Thailand
+  Precision: 0.0000, Recall: 1.0000, F1: 0.0000
+  Sample size: 5
+
+native-country = Peru
+  Precision: 1.0000, Recall: 0.0000, F1: 0.0000
+  Sample size: 5
+
+native-country = Honduras
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 4
+
+native-country = Yugoslavia
+  Precision: 1.0000, Recall: 1.0000, F1: 1.0000
+  Sample size: 2
+
