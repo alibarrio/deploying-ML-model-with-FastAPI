@@ -2,6 +2,8 @@
 Unit tests for the FastAPI application.
 """
 
+from urllib import response
+
 import pytest
 from fastapi.testclient import TestClient
 from main import app
@@ -56,8 +58,8 @@ def test_post_predict_low_income():
     # Test response structure
     assert "prediction" in response.json()
     
-    # Test prediction value (should be <=50K for this profile)
-    assert response.json()["prediction"] in ["<=50K", ">50K"]
+    # test_post_predict_low_income
+    assert response.json()["prediction"] == "<=50K"
 
 
 def test_post_predict_high_income():
@@ -92,8 +94,8 @@ def test_post_predict_high_income():
     # Test response structure
     assert "prediction" in response.json()
     
-    # Test prediction value (should be >50K for this profile)
-    assert response.json()["prediction"] in ["<=50K", ">50K"]
+    # test_post_predict_high_income
+    assert response.json()["prediction"] == ">50K"
 
 
 def test_post_predict_with_hyphens():
