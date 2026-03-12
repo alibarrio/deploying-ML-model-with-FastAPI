@@ -11,7 +11,7 @@ import json
 # Update this URL with your deployed API URL
 # For Heroku: https://your-app-name.herokuapp.com
 # For Render: https://your-app-name.onrender.com
-API_URL = "https://your-app-name.herokuapp.com"
+API_URL = "https://census-income-api-9lip.onrender.com"
 
 # Test data for prediction
 data = {
